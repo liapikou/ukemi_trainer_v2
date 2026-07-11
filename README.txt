@@ -12,14 +12,6 @@ WHAT'S IN HERE
   icon-512.png          app icon (splash screen)
   icon-maskable.png     app icon (Android adaptive shape)
 
-HOW TO PUT IT ONLINE (free, ~10 minutes, no coding)
-  1. Go to github.com and create a free account.
-  2. Click "+" -> "New repository". Name it e.g.  ukemi-trainer.  Create.
-  3. Click "uploading an existing file" and drag ALL files in this
-     folder into the page. Commit.
-  4. Repository Settings -> Pages -> Branch: main -> Save.
-  5. Wait ~1 minute. Your app is live at:
-       https://YOUR-USERNAME.github.io/ukemi-trainer/
 
 INSTALL ON A PHONE
   Android:  open the link in Chrome -> menu (⋮) -> "Add to Home screen"
